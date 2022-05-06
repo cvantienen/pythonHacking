@@ -3,6 +3,7 @@
 # python script for Cracking md5 hashes
 # This script will require two inputs: 
 # the location of the wordlist and the hash value
+# Change hash type on line 21
 
 
 #!/usr/bin/env python3
